@@ -1,0 +1,2 @@
+export const GET_STOCK_LIST = 'GET_STOCK_LIST';
+export const CREATE_WATCH_LIST = 'CREATE_WATCH_LIST';

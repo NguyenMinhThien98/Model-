@@ -1,0 +1,3 @@
+export const REQUEST_SIGN_UP = 'REQUEST_SIGN_UP';
+export const VERIFY_CODE = 'VERIFY_CPDE';
+export const RESEND_OTP_SIGN_UP = 'RESEND_OTP_SIGN_UP';

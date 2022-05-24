@@ -1,0 +1,1 @@
+export const GET_SECTOR_LIST = 'GET_SECTOR_LIST';
